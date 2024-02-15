@@ -2,19 +2,20 @@
     "uuid": "fe472cd2-4759-4c0d-9b19-7383ca9b2817",
     "name": "PFE",
     "title": "Projeto Final de Engenharia",
+    "timezone": "America/Sao_Paulo",
     "assessmentSets": [
         {
             "abbreviation": "T",
             "name": "Tests", 
             "heading": "Tests and Exams", 
-            "color": "red1", 
+            "color": "pink1", 
             "description": "Gallery of tests and exams"
         },
         {
             "abbreviation": "HW",
             "name": "Homeworks", 
             "heading": "Homeworks", 
-            "color": "blue1", 
+            "color": "pink2", 
             "description": "Gallery of homeworks"
         }
     ],
@@ -34,24 +35,24 @@
     "topics": [
         {
             "name": "Compilers", 
-            "color": "blue1", 
+            "color": "pink1", 
             "description": "Compilers"
         },
         {
             "name": "Theory", 
-            "color": "blue1", 
+            "color": "pink2", 
             "description": "Compilers Theory"
         }
     ],
     "tags": [
         {
             "name": "Teoria", 
-            "color": "gray1", 
+            "color": "pink1", 
             "description": "Aulas de Teoria"
         },
         {
             "name": "Roteiros", 
-            "color": "gray1", 
+            "color": "pink2", 
             "description": "Aulas do Compilador"
         }
     ]
