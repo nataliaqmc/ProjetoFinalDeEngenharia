@@ -18,19 +18,41 @@
             "description": "Gallery of homeworks"
         }
     ],
+    "assessmentModules": [
+        {
+          "name": "Introduction",
+          "heading": "Unit 1: Introduction to PFE"
+        },
+        {
+          "name": "LogComp",
+          "heading": "Unit 2: Logica da Computacao"
+        }
+      ],
     "options": {
         "useNewQuestionRenderer": true
     },
     "topics": [
         {
             "name": "Compilers", 
-            "color": "orange1", 
-            "description": "Compilers"}
+            "color": "blue1", 
+            "description": "Compilers"
+        },
+        {
+            "name": "Theory", 
+            "color": "blue1", 
+            "description": "Compilers Theory"
+        }
     ],
     "tags": [
         {
-            "name": "nataliaqmc@al.insper.edu.br", 
+            "name": "Teoria", 
             "color": "gray1", 
-            "description": "Author of the original question"}
+            "description": "Aulas de Teoria"
+        },
+        {
+            "name": "Roteiros", 
+            "color": "gray1", 
+            "description": "Aulas do Compilador"
+        }
     ]
 }
