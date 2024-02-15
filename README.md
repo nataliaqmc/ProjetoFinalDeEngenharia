@@ -1,19 +1,40 @@
-## PrairieLearn Course Repository
-
-### Welcome to PrairieLearn! 
-
-The content for your course is stored within this repository.
-You can see and edit a live version at [https://prairielearn.com](https://prairielearn.com)
-
-### Getting Started
-
-Learn how to create your first questions and assessments using our [Get Started](https://prairielearn.readthedocs.io/en/latest/getStarted/) tutorial.
-
-### Getting Help
-
-Need help understanding an error or creating content? Check out one of the following resources:
-
-1. Real-time help assistance on PrairieLearn's [Slack `#pl-help` channel](https://prairielearn.com/slack).
-1. Looking up the question on our Frequently Asked Question (FAQ) pages: [readthedocs](https://prairielearn.readthedocs.io/en/latest/faq/) and [github-discussions](https://github.com/PrairieLearn/PrairieLearn/discussions/categories/q-a)
-1. Attend virtual office hours, which are announced at the start of the
-   semester on PrairieLearn's [Slack](https://prairielearn.com/slack)
+<h1>PrairieLearn Course Repository Example - PFE:</h1>
+<div>
+   <strong> Made by: </strong> <i>Natália Queiroz Menezes Carreras</i>
+</div>
+<div>
+   <h3>Getting started:</h3>
+   <p>
+      Start by cloning this repository in your own computer (use linux or wsl):
+      <code>git clone https://github.com/nataliaqmc/ProjetoFinalDeEngenharia.git</code>
+   </p>
+   <p>
+      To run, you must have docker installed. Run the following code, changing the location of the file as necessary:
+      <code>docker run -it --rm -p 3000:3000 -v /home/nataliaqmc/PFE/ProjetoFinalDeEngenharia:/course2 prairielearn/prairielearn</code>
+   </p>
+   <p>
+      Now that your server is running, access it on the following url: 
+      <a href="http://localhost:3000/">http://localhost:3000/</a>
+   </p>
+   
+</div>
+<div>
+   <h3>Important links and pages:</h3>
+   <ul>
+      <li>
+         <a href="https://prairielearn.readthedocs.io/en/latest/">PrairieLearn Docs</a>
+      </li>
+      <li>
+         <a href="https://prairielearn.readthedocs.io/en/latest/course/">Course Configuration Docs</a>
+      </li>
+      <li>
+         <a href="https://prairielearn.readthedocs.io/en/latest/courseInstance/">Course Instance Configuration Docs</a>
+      </li>
+      <li>
+         <a href="https://prairielearn.readthedocs.io/en/latest/assessment/">Course Assessments Configuration Docs</a>
+      </li>
+      <li>
+         <a href="https://prairielearn.readthedocs.io/en/latest/question/">Course Questions Configuration Docs</a>
+      </li>
+   </ul>
+</div>
