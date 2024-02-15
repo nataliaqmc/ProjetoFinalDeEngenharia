@@ -1,7 +1,7 @@
 {
     "uuid": "fe472cd2-4759-4c0d-9b19-7383ca9b2817",
     "name": "TPL 101",
-    "title": "Template Course",
+    "title": "Projeto Final de Engenharia",
     "assessmentSets": [
       {"abbreviation": "G", "name": "Gallery", "heading": "Gallery of questions using different PrairieLearn elements", "color": "orange1", "description": "Gallery of PL questions"}
     ],
@@ -12,6 +12,6 @@
         {"name": "Gallery", "color": "orange1", "description": "Gallery of PL questions"}
     ],
     "tags": [
-        {"name": "mariana@prairielearn.com", "color": "gray1", "description": "Author of the original question"}
+        {"name": "nataliaqmc@al.insper.edu.br", "color": "gray1", "description": "Author of the original question"}
     ]
 }
