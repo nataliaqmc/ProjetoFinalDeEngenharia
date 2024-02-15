@@ -1,0 +1,11 @@
+{
+    "uuid": "62fbe2a4-8c22-471a-98fe-19e5d5da1bbe",
+    "shortName": "LogComp24.1",
+    "longName": "Logica da Computacao 2024.1",
+    "allowAccess": [
+      {
+        "startDate": "2024-01-19T00:00:01",
+        "endDate": "2025-05-13T23:59:59"
+      }
+    ]
+  }
