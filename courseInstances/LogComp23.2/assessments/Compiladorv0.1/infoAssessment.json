@@ -1,0 +1,11 @@
+{
+    "uuid": "cef0cbf3-6458-4f13-a418-ee4d7e7505dd",
+    "type": "Tests",
+    "title": "Compiler v0.1",
+    "set": "Homework",
+    "module": "LogComp",
+    "number": "2",
+    "allowAccess": [],
+    "zones": [],
+    "comment": "You can add comments to JSON files using this property."
+  }

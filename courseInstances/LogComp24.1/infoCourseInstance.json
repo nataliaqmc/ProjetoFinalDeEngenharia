@@ -7,5 +7,8 @@
         "startDate": "2024-01-19T00:00:01",
         "endDate": "2025-05-13T23:59:59"
       }
-    ]
+    ],
+    "groupAssessmentsBy": "Module",
+    "timezone": "America/Sao_Paulo",
+    "hideInEnrollPage": true
   }

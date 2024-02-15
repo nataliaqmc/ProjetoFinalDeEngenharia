@@ -13,8 +13,8 @@
         },
         {
             "abbreviation": "HW",
-            "name": "Homeworks", 
-            "heading": "Homeworks", 
+            "name": "Homework", 
+            "heading": "Homework", 
             "color": "pink2", 
             "description": "Gallery of homeworks"
         }
