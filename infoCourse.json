@@ -3,15 +3,34 @@
     "name": "PFE",
     "title": "Projeto Final de Engenharia",
     "assessmentSets": [
-      {"abbreviation": "G", "name": "Gallery", "heading": "Gallery of questions using different PrairieLearn elements", "color": "orange1", "description": "Gallery of PL questions"}
+        {
+            "abbreviation": "T",
+            "name": "Tests", 
+            "heading": "Tests and Exams", 
+            "color": "red1", 
+            "description": "Gallery of tests and exams"
+        },
+        {
+            "abbreviation": "HW",
+            "name": "Homeworks", 
+            "heading": "Homeworks", 
+            "color": "blue1", 
+            "description": "Gallery of homeworks"
+        }
     ],
     "options": {
         "useNewQuestionRenderer": true
     },
     "topics": [
-        {"name": "Gallery", "color": "orange1", "description": "Gallery of PL questions"}
+        {
+            "name": "Compilers", 
+            "color": "orange1", 
+            "description": "Compilers"}
     ],
     "tags": [
-        {"name": "nataliaqmc@al.insper.edu.br", "color": "gray1", "description": "Author of the original question"}
+        {
+            "name": "nataliaqmc@al.insper.edu.br", 
+            "color": "gray1", 
+            "description": "Author of the original question"}
     ]
 }
