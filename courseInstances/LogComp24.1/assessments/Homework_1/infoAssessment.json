@@ -1,9 +1,18 @@
 {
     "uuid": "e9da4f0a-cbab-493f-b0c1-0aad61e1498c",
-    "type": "Homework",
+    "type": "Exam",
     "title": "Homework",
-    "set": "Homework",
+    "set": "Exam",
     "number": "1",
     "allowAccess": [],
-    "zones": []
+    "zones": [
+        {
+            "title": "Easy questions",
+            "comment": "These are new questions created for this exam",
+            "questions": [
+                {"id": "Add_1", "autoPoints": [10, 5, 3, 1, 0.5, 0.25]},
+                {"id": "Add_2", "autoPoints": [10, 9, 7, 5]}
+            ]
+        }
+    ]
 }
